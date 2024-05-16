@@ -19,7 +19,7 @@ NttId is a Solidity smart contract that is based on the ERC-4671 standard with a
 1. Clone the repository:
 
 ```
-git clone https://github.com/waddaboo/solidity-nttId.git
+git clone https://github.com/mono300genuine/solidity-nttid.git
 ```
 
 2. Install the dependencies:
